@@ -13,7 +13,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "HS Software - Soluções Digitais Sob Medida",
   description: "Desenvolvemos sites e sistemas com alta performance, design moderno e foco na experiência do usuário",
-  generator: "v0.app",
+   icons: "/icon.png",
 }
 
 export default function RootLayout({
