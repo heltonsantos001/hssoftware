@@ -11,9 +11,9 @@ export function ProjectsSection() {
       url: "https://advogado-eight.vercel.app/",
     },
     {
-      name: "Site de Tranças e Beleza Afro",
-      description: "Exemplo de site criado para salões especializados em tranças. Possui galeria de fotos com trabalhos realizados, agendamento online e localização direta no mapa, com um design moderno e vibrante.",
-      url: "https://bit-trancinha.vercel.app/",
+      name: "Site de Advocacia",
+      description: "Modelo de site desenvolvido para escritórios jurídicos, com layout elegante e profissional. Apresenta áreas de atuação, informações sobre o escritório e formulário de contato com mapa integrado.",
+      url: "https://advogado-vl1g.vercel.app/",
     },
     {
       name: "Site de Estética e Beleza",
